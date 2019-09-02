@@ -3,6 +3,6 @@
 
 @section('content')
 
-    <h1>My First Website!</h1>
+    <h1>My {{$foo}} Website!</h1>
 
 @endsection
